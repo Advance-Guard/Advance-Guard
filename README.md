@@ -10,7 +10,7 @@
 ### Our Solution:
 ##### To overcome this challenge, we have created a Blockchain-based solution to keep an immutable trusted track of the data that a service-customer company sends over to a service-provider company. Our software reports how the data is exercised by the service-provider, and if enabled to, it will automatically prohibit bad-natured requests of the service-provider.
      
-### Get in Touch | Request Demo
+### Get in Touch | Request Demo:
 ##### If you are interested to know more about our solution or request demo of it, do not hesitate to contact us. We look forward to hearing from you.
 ##### email: advance.guard.inc@gmail.com
 
